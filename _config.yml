@@ -37,6 +37,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/New_York
+locale: "en-US"
 
 include:
   - _pages
@@ -66,16 +67,20 @@ author:
   name   : "Faizaan Qureshi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "CS/BBA Student at the University of Waterloo and Wilfrid Laurier University"
+  location: "Toronto, Ontario"
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/faizaanqureshi_/?hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/faizaan-qureshi-193b6319b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faizaanqureshi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/faizaanqureshi_/?hl=en"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "qfaizaan@gmail.com"
 
 footer:
   links:

@@ -1,0 +1,27 @@
+---
+title: "The Historical and Racial Significance of Blackface/Brownface"
+excerpt_separator: "<!--more-->"
+categories:
+  - Miscellaneous
+tags:
+  - History
+  - Racism
+  - African-American
+  - Blackface
+  - Brownface
+
+header:
+  image: /assets/images/blackface-article-header.jpg
+---
+
+Blackface is a degrading and racist act of injustice that has been around for centuries. It involves people (often white-skinned performers) who darken their skin with shoe polish, greasepaint and burnt cork. They often accompany this with the enlarging of lips and the exaggeration of facial features to mould portrayed characters into a stereotypical model of “coloured” people. This phenomenon has existed in cultures across the world and peaked in North America during the late 1800s and early to mid-1900s when the enslaved black population was freed and the people demanded equal rights for all races. This revolution sparked backlash which triggered racial hostility and blackface was used to ridicule those of non-European descent.
+
+According to David Leonard, a professor of comparative ethnic studies and American studies at Washington State University, blackface “allows a society to routinely and historically imagine African Americans as not fully human.” Blackface was a key factor in helping society move forward with and conform to Jim Crow segregation.
+
+Jim Crow segregation was a set of laws that made up and legalized racial segregation in the United States. These laws were enforced in 1865 soon after the 13th amendment to the American constitution which freed four million slaves. These laws dictated the working and labour rights of freed slaves and the wage they could work at. The laws also took away voting rights declaring freed slaves as second-class citizens. The concept behind Jim Crow laws was that it would name slaves as citizens but still allow white landowners to exploit the population by discriminating against them through their skin colour. The exact year when blackface originated isn’t known but its roots go back to centuries-old European plays and theatrical productions. 
+
+Blackface appeared in Shakespeare’s Othello, a play studied in 10th/11th grade academic and university English. This practice was then transposed to the United States in the 18th century. Thomas Dartmouth Rice is a famous blackface artist and developed a blackface stage character called “Jim Crow” in 1830. He reportedly travelled south and observed slaves as inspiration. The character featured quick dance moves, exaggerated African-American speech and ridiculous behaviour. Rice was the founding father of a new genre of degrading song and dance in the form of blackface minstrel shows. This became a staple in American entertainment in both the North and the South. White performers in blackface portrayed characters with many negative stereotypes aimed at African-Americans which included being lazy, ignorant, hypersexual, criminal, cowardly, and ignorant. Blackface was used to constantly humiliate and dehumanize people of a darker complexion. Minstrel shows were also a popular form of entertainment in Canada during the same time.
+
+A researcher at The University of Toronto named Lorraine Elmire Louise Le Camp documented many minstrel performances across Canada from 1840 to 1960 with shows in charitable organizations, religious gatherings, schools, and members of the military and police. The impact of blackface continues to show its influence in Canada even today. In Donald Glover’s viral music video, This is America, we can interpret that his actions portray and mimic some actions of the original Jim Crow to make a broader statement about the racism, violence, and gun policies in the United States. The first Canadian competitor in RuPaul’s Drag Race came under fire for taking a picture alongside a drag queen wearing blackface. Our own Prime Minister Justin Trudeau has sparked controversy for wearing brown face during an “Arabian Nights” themed party at a school he used to teach in 2001. Trudeau apologized for his actions and admitted to wearing blackface in another event for a high school performance. Trudeau later said that “Darkening your face, regardless of the context or the circumstances, is always unacceptable because of the racist history of blackface. I should have understood that then, and I never should have done it.”
+
+Blackface performances were controversial from the start. In 1848, abolitionist Frederick Douglass called the performers “the filthy scum of white society.” Performers were often lower class white men who performed as a confirmation for their whiteness and to deem themselves superior to people of colour in the eyes of others. The need to dehumanize and ridicule people led to the creation of blackface and unfortunately, we can see the repercussions of this even in the present day. We may not see blackface allegations all too often but that’s because of its stigmatic nature. When we look around us, even in 2019, the marks of humans turning on themselves for trivial differences such as skin colour still haunts us. Racism lives on even past Jim Crow.
