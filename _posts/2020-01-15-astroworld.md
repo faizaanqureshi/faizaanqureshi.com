@@ -13,7 +13,7 @@ header:
 
 ## What is Astroworld?
 
-Astroworld is a project I developed in my junior year of high school as the culminating assignment in my Intro to Computer Science class. It's named after Travis Scott's album, Astroworld, and the application grabs many thematic and stylistic elements from his work. It was developed in a Java IDE called [Processing](https://processing.org), it primary focuses on making life easier in developing visuals and graphics for applications while keeping the same Object Oriented approach as Java. 
+Astroworld is a project I developed in my junior year of high school as the culminating assignment in my Intro to Computer Science class. It's named after Travis Scott's album, Astroworld, and the application grabs many thematic and stylistic elements from his work. It was developed in a Java IDE called [Processing](https://processing.org), it primarily focuses on making life easier in developing visuals and graphics for applications while keeping the same Object Oriented approach as Java. 
 
 ## Minigame Screen
 
