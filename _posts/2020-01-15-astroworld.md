@@ -42,7 +42,11 @@ After selecting an album/collection, the user is greeted with a music player to 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/astro4.png" alt="" class="full">
 
-Wherever you are in the application, a small box to your top right tells you what song is currently being played. Overall, this was definitely one of the most gruelling, satisfying, and rewarding projects I've worked on.
+Wherever you are in the application, a small box to your top right tells you what song is currently being played.
+
+## Challenges/Learning Outcomes
+
+Overall, this was definitely one of the most gruelling, satisfying, and rewarding projects I've worked on. It was my first introduction to algorithms and file saving with real world implementation. I would work on this for hours and hours during my winter break to the point where even my teacher told me there was no point developing the code base any further. But for a brief period in Winter 2020, this project became my obsession. To this day, it represents me as a person and a coder. From recursion to classes to file storage, this project forced me to implement thoughtful solutions to problems and gave me an introduction to the world of software development.
 
 ## Want to Try/Learn More?
 
