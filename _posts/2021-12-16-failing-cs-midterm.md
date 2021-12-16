@@ -1,5 +1,5 @@
 ---
-title: "Failing my Computer Science (CS135) Midterm"
+title: "Failing My Computer Science (CS135) Midterm"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
