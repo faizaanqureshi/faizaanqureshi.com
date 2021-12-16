@@ -81,15 +81,15 @@ author:
 
 footer:
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/faizaanqureshi_/?hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/faizaan-qureshi-193b6319b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/faizaanqureshi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/faizaanqureshi_/?hl=en"
 
 defaults:
   # _posts
