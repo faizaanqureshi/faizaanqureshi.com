@@ -4,11 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Miscellaneous
 tags:
-  - History
-  - Racism
-  - African-American
   - Blackface
-  - Brownface
 
 header:
   image: /assets/images/blackface-article-header.jpg

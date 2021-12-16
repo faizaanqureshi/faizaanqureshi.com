@@ -4,14 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Projects
 tags:
-  - Travis Scott
   - Astroworld
-  - Music
-  - Games
-  - Application
-  - Desktop
-  - Java
-  - Processing
 
 header:
   image: /assets/images/astroworld.png
