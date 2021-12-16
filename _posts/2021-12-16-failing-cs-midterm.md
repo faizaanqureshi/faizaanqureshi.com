@@ -35,4 +35,4 @@ I did my final on the day I'm writing this at 12:30 pm. I'm definitely satisfied
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/keepcalm.jpg" alt="keep calm and carry on">
 
-Sleep is incredibly important. Also, never be too confident in your abilities, at any moment one small slip up crush you to the bottom of the Earth. Be grateful for the situation you're in and if you're in a tough situation, relax and just keep on swimming.
+Sleep is incredibly important. Also, never be too confident in your abilities, at any moment one small slip up can crush you to the bottom of the Earth. Be grateful for the situation you're in and if you're in a tough situation, relax and just keep on swimming.
