@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Miscellaneous
 tags:
-  - Blackface
+  - blackface
 
 header:
   image: /assets/images/blackface-article-header.jpg

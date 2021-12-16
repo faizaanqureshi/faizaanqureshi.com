@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Projects
 tags:
-  - Astroworld
+  - astroworld
 
 header:
   image: /assets/images/astroworld.png
