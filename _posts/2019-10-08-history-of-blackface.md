@@ -12,6 +12,7 @@ tags:
 
 header:
   image: /assets/images/blackface-article-header.jpg
+  teaser: /assets/images/blackface-article-header.jpg
 ---
 
 Blackface is a degrading and racist act of injustice that has been around for centuries. It involves people (often white-skinned performers) who darken their skin with shoe polish, greasepaint and burnt cork. They often accompany this with the enlarging of lips and the exaggeration of facial features to mould portrayed characters into a stereotypical model of “coloured” people. This phenomenon has existed in cultures across the world and peaked in North America during the late 1800s and early to mid-1900s when the enslaved black population was freed and the people demanded equal rights for all races. This revolution sparked backlash which triggered racial hostility and blackface was used to ridicule those of non-European descent.
