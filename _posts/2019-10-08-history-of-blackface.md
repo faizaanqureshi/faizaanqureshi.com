@@ -2,7 +2,7 @@
 title: "The Historical and Racial Significance of Blackface/Brownface"
 excerpt_separator: "<!--more-->"
 categories:
-  - Miscellaneous
+  - Blog
 tags:
   - blackface
 
