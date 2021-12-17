@@ -15,7 +15,7 @@ header:
 
 LOL.
 
-It was an ordinary November Friday, except that I had my second computer science midterm. I was taking CS135 at the Univerisity of Waterloo, a course I really enjoyed. It really taught me a lot about recursion and building programs and functions that depended/coexisted with each other. There were many topics such as mutual recursion, and mutual recursion that really helped me develop my understanding. While I didn't perform outstanding in my first midterm, I still passed above the average. Nothing could have prepared me for the shock I would recieve once grades were released a few days later...
+It was an ordinary November Friday, except that I had my second computer science midterm. I was taking CS135 at the University of Waterloo, a course I really enjoyed. It really taught me a lot about recursion and building programs and functions that depended/coexisted with each other. There were many topics such as mutual recursion, and mutual recursion that really helped me develop my understanding. While I didn't perform outstanding in my first midterm, I still passed above the average. Nothing could have prepared me for the shock I would recieve once grades were released a few days later...
 
 ## 17%!?!?
 
