@@ -16,17 +16,17 @@ A virtual machine is the virtualization/emulation of a computer system. They are
 
 ## macOS Virtual Machine/XCode Installation
 
-1. Download and install VMware Workstation from [VMware Download](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html)
+* Download and install VMware Workstation from [VMware Download](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html)
 
-2. Download the MacOS Big Sur ISO file from [Big Sur Download](https://drive.google.com/file/d/1tprXjxoUdWVgM8XLp2GQ93bKSbiw1iD1/view)
+* Download the MacOS Big Sur ISO file from [Big Sur Download](https://drive.google.com/file/d/1tprXjxoUdWVgM8XLp2GQ93bKSbiw1iD1/view)
 
-3. VMware does not come with macOS support out of the box. Download the unlocker utility to add this functionality from [VMware Unlocker Github Repository](https://github.com/paolo-projects/unlocker/releases/)
+* VMware does not come with macOS support out of the box. Download the unlocker utility to add this functionality from [VMware Unlocker Github Repository](https://github.com/paolo-projects/unlocker/releases/)
 
-4. Unzip the file and run win-install.cmd as administrator.
+* Unzip the file and run win-install.cmd as administrator.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/unlocker.png" alt="" class="full">
 
-5. Initialize a new Vmware
+* Initialize a new Vmware
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/setup1.png" alt="" class="full">
 
@@ -88,27 +88,24 @@ hw.model = "MacBookPro14,3"
 board-id = "Mac-551B86E5744E2388"
 ```
 
-6. Start the VMware and select Disk Utility
+* Start the VMware and select Disk Utility
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/setup9.png" alt="" class="full">
 
-7. Click the VMware Virtual SATA and press erase. Rename it to whatever you wish and format it as APFS with a GUID Partition Map
+* Click the VMware Virtual SATA and press erase. Rename it to whatever you wish and format it as APFS with a GUID Partition Map
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/setup10.png" alt="" class="full">
 
-8. Go back to the main menu and select "Install MacOS Big Sur"
+* Go back to the main menu and select "Install MacOS Big Sur"
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/setup11.png" alt="" class="full">
 
-7. After installation is complete, login to the OS and then in the VMware menu, select the VM menu and select "install tools". This enables hardware acceleration/improves performance.
+* After installation is complete, login to the OS and then in the VMware menu, select the VM menu and select "install tools". This enables hardware acceleration/improves performance.
 
-8. Click the Apple logo on the top left and open system preferences. Select software update and update the system to the latest macOS Monterey.
+* Click the Apple logo on the top left and open system preferences. Select software update and update the system to the latest macOS Monterey.
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/macOS.jpg" alt="" class="full">
 
-9. Once installed, open the App Store and you should be able to download and install XCode after signing in with your Apple ID
-
-{% capture notice-2 %}
-XCode can take a long time to install since it's a 12GB application.
+* Once installed, open the App Store and you should be able to download and install XCode after signing in with your Apple ID
 
 That's all there is to it! It's not a perfect solution and you may see some performance issues but its a great alternative that I use. Enjoy!
