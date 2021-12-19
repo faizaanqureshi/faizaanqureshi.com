@@ -56,10 +56,7 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 Or you could skip the capture and stick with straight HTML.
 
 ```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
+hello
 ```
 
 <div class="notice">
