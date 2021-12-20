@@ -6,6 +6,9 @@ tags:
   - macOS
   - Virtual Machine
   - VMware
+header:
+  image: /assets/images/macos-teaser.png
+  teaser: /assets/images/macos-teaser.png
 ---
 
 A large majority of the world uses an iPhone and the ability to develop iOS applications is rewarding and lucrative. It's a spectacular feeling to actually use an iOS application that you've made on your own iPhone. Unfortunately, Apple makes it very difficult for non macOS users to develop iOS applications. XCode is an all in one developer app provided by Apple that makes it easy to emulate and create stunning apps. You're out of luck if you're a Windows user. You can either purchase/rent/borrow a physical Mac or choose from among alternatives such as renting a remote Mac or setting up a Virtual Machine.
